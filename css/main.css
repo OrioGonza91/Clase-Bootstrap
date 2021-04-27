@@ -1,0 +1,9 @@
+li
+{
+	list-style-type: none;
+}
+
+td.feriado
+{
+	background-color: rgb(128,234,255);
+}
